@@ -1,0 +1,16 @@
+2026-10-24 19:15:30 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-24 19:15:30 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-24 19:15:32 [info] [VerifyLogin] Navigation completed: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-24 19:15:32 [info] [VerifyLogin] Navigation completed: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2026-10-24 19:23:00 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-24 19:23:00 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-24 19:29:41 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-24 19:32:26 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-24 19:32:31 [info] [UtilElementLocator] clicking locator('//button[@type=\'submit\']')
+2026-10-25 00:14:10 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-25 00:14:10 [info] [VerifyLogin] Navigating to the application base URL
+2026-10-25 00:14:13 [info] [Login Page] Filling username password.
+2026-10-25 00:14:13 [info] [UtilElementLocator] clicking locator('//button[@type=\'submit\']')
+2026-10-25 00:14:14 [info] [Login Page] waiting for loadstate...
+2026-10-25 00:14:14 [info] [DashBoard Page] Waiting for dashboard lable to be visible.
+2026-10-25 00:14:15 [info] [DashBoard Page] Dashboard label now visible
